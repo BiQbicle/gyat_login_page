@@ -1,0 +1,11 @@
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/libsnafu-c05c29f5d0098b09.rmeta: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/backtrace_impl_inert.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/once_bool.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/error_chain.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/Snafu.md /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.md
+
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/snafu-c05c29f5d0098b09.d: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/backtrace_impl_inert.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/once_bool.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/error_chain.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/Snafu.md /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.md
+
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/lib.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/backtrace_impl_inert.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/once_bool.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/error_chain.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/Snafu.md:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.8.5/src/report.md:

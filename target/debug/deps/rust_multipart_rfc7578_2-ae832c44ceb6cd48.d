@@ -1,0 +1,8 @@
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/librust_multipart_rfc7578_2-ae832c44ceb6cd48.rmeta: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/boundary.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/client_.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/error.rs
+
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/rust_multipart_rfc7578_2-ae832c44ceb6cd48.d: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/boundary.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/client_.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/error.rs
+
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/lib.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/boundary.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/client_.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rust-multipart-rfc7578_2-0.6.1/src/error.rs:

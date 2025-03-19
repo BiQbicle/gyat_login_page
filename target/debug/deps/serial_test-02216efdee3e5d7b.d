@@ -1,0 +1,9 @@
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/libserial_test-02216efdee3e5d7b.rmeta: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs
+
+/run/media/biqbicle/Secondary/c-stuff/Programming_stuff/Lala_projects/Rust/nigerianballs_login/target/debug/deps/serial_test-02216efdee3e5d7b.d: /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs /home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs
+
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs:
+/home/biqbicle/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs:
